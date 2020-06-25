@@ -2,6 +2,13 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>I consent to having my internet traffic monitored whilst using the Victoria College WiFi. Internet traffic through other WiFi connections or when using data with your phone providor will not be monitored.</string>
+	</dict>
+	<key>HasRemovalPasscode</key>
+	<false/>
 	<key>PayloadContent</key>
 	<array>
 		<dict>
@@ -203,7 +210,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>726A9083-A030-4858-A6FC-DDD4824C06D4</string>
+	<string>1C24E862-071F-45DF-BA6B-BAC0A9711422</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
