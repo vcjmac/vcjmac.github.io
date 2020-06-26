@@ -5,7 +5,7 @@
 	<key>ConsentText</key>
 	<dict>
 		<key>default</key>
-		<string>I consent to having my internet traffic monitored whilst using the Victoria College WiFi. Internet traffic through other WiFi connections or when using data with your phone providor will not be monitored.</string>
+		<string>I consent to having my internet traffic monitored whilst using the Victoria College WiFi (internet traffic through other WiFi connections or when using data with your phone provider will not be monitored).</string>
 	</dict>
 	<key>HasRemovalPasscode</key>
 	<false/>
